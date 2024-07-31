@@ -7,8 +7,8 @@
 
 # Applite
 
-User-friendly GUI macOS application for Homebrew Casks
-Better And Better 是一款 Mac 平台的增强工具，通过触控板、鼠标绘图手势，为用户提供丰富的操作手势和功能扩展，支持定制化设置和 iCloud 同步。
+User-friendly GUI macOS application for Homebrew Casks.
+Applite是一个免费开源的 macOS 应用程序，用于以用户友好的方式管理 Homebrew Casks。它旨在简化使用 Homebrew 来安装和管理第三方应用程序。
 
 ## Table of Contents
 
