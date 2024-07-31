@@ -9,6 +9,7 @@
 
 User-friendly GUI macOS application for Homebrew Casks.
 Applite是一个免费开源的 macOS 应用程序，用于以用户友好的方式管理 Homebrew Casks。它旨在简化使用 Homebrew 来安装和管理第三方应用程序。
+官网下载地址：https://aerolite.dev/applite#download
 
 ## Table of Contents
 
